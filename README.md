@@ -1,1 +1,1 @@
-# Skynet-Terminal
+Try your luck with Skynet-Terminal
